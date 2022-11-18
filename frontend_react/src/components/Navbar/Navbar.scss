@@ -14,10 +14,11 @@
     z-index: 2;
 }
 
-.app__navbar-logo {
+.app__navbar-logo { // todo: add a new logo design
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    display: none;
 
     img {
         width: 40px;
